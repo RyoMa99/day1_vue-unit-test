@@ -1,4 +1,6 @@
 # day1
+Vue-unit-testをやってみる  
+[参考](https://reffect.co.jp/vue/vue-jest-test)
 
 ## Project setup
 ```

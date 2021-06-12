@@ -9,4 +9,12 @@ describe('HelloWorld.vue', () => {
     })
     expect(wrapper.text()).toMatch(msg)
   })
+  test('test App Component again', function () {
+    const wrapper = shallowMount(HelloWorld, {
+      propsData: {
+        msg: 'World'
+      }
+    })
+    expect(wrapper.text()).toMatch('World')
+  })
 })
