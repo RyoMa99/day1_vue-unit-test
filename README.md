@@ -1,6 +1,7 @@
 # day1
 Vue-unit-testをやってみる  
-[参考](https://reffect.co.jp/vue/vue-jest-test)
+[基本](https://reffect.co.jp/vue/vue-jest-test)  
+[+α](https://reffect.co.jp/vue/vue-mock-axios)
 
 ## Project setup
 ```
